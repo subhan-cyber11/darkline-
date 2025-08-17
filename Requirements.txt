@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+passlib[bcrypt]   # For password hashing
+python-jose       # For JWT tokens
